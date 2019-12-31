@@ -21,3 +21,7 @@ The tool is not owned by a foreigner, but I have modified it to run the tool
 ###To operate the tool, you must follow the video steps on the Youssef Information channel
 
 ###لتشغيل الاداه يجب اتباع خطوات الفيديو الذي علي قناة Youssef Information
+
+او قم بتحميل هذا رابط يوجد داخله جميع الاوامر
+
+http://caat.site/YoussefFaceBook
